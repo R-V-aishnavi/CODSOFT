@@ -1,0 +1,35 @@
+Welcome to the ATM!
+Enter your initial account balance:
+500
+Options:
+1. Withdraw
+2. Deposit
+3. Check Balance
+4. Exit
+1
+Enter the amount to withdraw:
+100
+Withdrawal successful. Current balance: 400.0
+Options:
+1. Withdraw
+2. Deposit
+3. Check Balance
+4. Exit
+2
+Enter the amount to deposit:
+300
+Deposit successful. Current balance: 700.0
+Options:
+1. Withdraw
+2. Deposit
+3. Check Balance
+4. Exit
+3
+Current balance: 700.0
+Options:
+1. Withdraw
+2. Deposit
+3. Check Balance
+4. Exit
+4
+Thank you for using the ATM. Goodbye!

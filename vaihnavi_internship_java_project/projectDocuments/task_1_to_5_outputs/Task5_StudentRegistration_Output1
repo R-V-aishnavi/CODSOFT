@@ -1,0 +1,315 @@
+Welcome!
+Enter '1' to login as Admin
+Enter '2' to login as Student
+Enter '3' to Exit
+2
+Please enter your first name:
+vaishnavi
+Please enter your last name:
+ravi
+Let's set up your username and password!
+Please enter your desired username:
+vaishnavi
+Please enter your desired password:
+vaishnavi
+Enter your Student username:
+vaishnavi
+Enter your Student password:
+vaishnavi
+Congrats! You have been successfully logged in as vaishnavi ravi!
+What would you like to do today?
+Enter '1' to View All Courses
+Enter '2' to View All Available Courses
+Enter '3' to Register to a Course
+Enter '4' to Withdraw from a Course
+Enter '5' to View All Registered Courses
+Enter '6' to Exit
+1
+Course: PAC II
+Course ID: CSCI-GA.1144
+Maximum # of Students: 7
+Current # of Students: 0
+Registered Students: 
+Instructor: Mohamed Zahran
+Section: 1
+Location: CIWW 312
+
+==========
+Course: Fundamental Algorithms
+Course ID: CSCI-GA.1170
+Maximum # of Students: 4
+Current # of Students: 0
+Registered Students: 
+Instructor: Joel Spencer
+Section: 1
+Location: CIWW 109
+
+==========
+Course: Programming Languages
+Course ID: CSCI-GA.2110
+Maximum # of Students: 7
+Current # of Students: 0
+Registered Students: 
+Instructor: Benjamin Goldberg
+Section: 1
+Location: CIWW 109
+
+==========
+Course: Compiler Construction
+Course ID: CSCI-GA.2130
+Maximum # of Students: 3
+Current # of Students: 0
+Registered Students: 
+Instructor: Eva Rose
+Section: 1
+Location: CIWW 202
+
+==========
+Course: Open Source Tools
+Course ID: CSCI-GA.2246
+Maximum # of Students: 7
+Current # of Students: 0
+Registered Students: 
+Instructor: Jeffrey Korn
+Section: 1
+Location: 60 Fifth Ave C12
+
+==========
+Course: Operating Systems
+Course ID: CSCI-GA.2250
+Maximum # of Students: 5
+Current # of Students: 0
+Registered Students: 
+Instructor: Hubertus Franke
+Section: 1
+Location: CIWW 109
+
+==========
+Course: Database Systems
+Course ID: CSCI-GA.2433
+Maximum # of Students: 4
+Current # of Students: 0
+Registered Students: 
+Instructor: Zvi Kedem
+Section: 1
+Location: CIWW 101
+
+==========
+Course: Software Engineering
+Course ID: CSCI-GA.2440
+Maximum # of Students: 7
+Current # of Students: 0
+Registered Students: 
+Instructor: Jean Claude Franchitti
+Section: 1
+Location: CIWW 312
+
+==========
+Course: Web Search Engines
+Course ID: CSCI-GA.2580
+Maximum # of Students: 6
+Current # of Students: 0
+Registered Students: 
+Instructor: Ernest Davis
+Section: 1
+Location: CIWW 102
+
+==========
+Course: Special Topic: Big Data Science
+Course ID: CSCI-GA.3033
+Maximum # of Students: 3
+Current # of Students: 0
+Registered Students: 
+Instructor: Anasse Bari
+Section: 1
+Location: 60 Fifth Ave C10
+
+==========
+Course: Special Topic: Social Networks
+Course ID: CSCI-GA.3033
+Maximum # of Students: 2
+Current # of Students: 0
+Registered Students: 
+Instructor: Bhubaneswar Mishra
+Section: 2
+Location: CIWW 201
+
+==========
+Course: Special Topic: Cloud Computing
+Course ID: CSCI-GA.3033
+Maximum # of Students: 4
+Current # of Students: 0
+Registered Students: 
+Instructor: Jean Claude Franchitti
+Section: 10
+Location: CIWW 102
+
+==========
+Course: Special Topic: DevOps
+Course ID: CSCI-GA.3033
+Maximum # of Students: 1
+Current # of Students: 0
+Registered Students: 
+Instructor: John Rofrano
+Section: 13
+Location: CIWW 317
+
+==========
+Course: Intro To Computer Programming
+Course ID: CSCI-UA.0002
+Maximum # of Students: 4
+Current # of Students: 0
+Registered Students: 
+Instructor: Joseph Versoza
+Section: 2
+Location: CIWW 312
+
+==========
+Course: Intro To Computer Programming
+Course ID: CSCI-UA.0002
+Maximum # of Students: 7
+Current # of Students: 0
+Registered Students: 
+Instructor: Craig Kapp
+Section: 3
+Location: CIWW 109
+
+==========
+Course: Intro to Web Design & Computer Principles
+Course ID: CSCI-UA.0004
+Maximum # of Students: 6
+Current # of Students: 0
+Registered Students: 
+Instructor: Joshua Clayton
+Section: 1
+Location: CIWW 102
+
+==========
+Course: Intro to Web Design & Computer Principles
+Course ID: CSCI-UA.0004
+Maximum # of Students: 4
+Current # of Students: 0
+Registered Students: 
+Instructor: Amos Bloomberg
+Section: 4
+Location: 60 Fifth Ave 150
+
+==========
+Course: Database Design And Web Implementation
+Course ID: CSCI-UA.0060
+Maximum # of Students: 5
+Current # of Students: 0
+Registered Students: 
+Instructor: Deena Engel
+Section: 1
+Location: 60 Fifth Ave 110
+
+==========
+Course: Web Development And Programming
+Course ID: CSCI-UA.0061
+Maximum # of Students: 3
+Current # of Students: 0
+Registered Students: 
+Instructor: Nathan Hull
+Section: 1
+Location: CIWW 512
+
+==========
+Course: Intro To Computer Science
+Course ID: CSCI-UA.0101
+Maximum # of Students: 4
+Current # of Students: 0
+Registered Students: 
+Instructor: Suzanne McIntosh
+Section: 1
+Location: 60 Fifth Ave 110
+
+==========
+Course: Intro To Computer Science
+Course ID: CSCI-UA.0101
+Maximum # of Students: 6
+Current # of Students: 0
+Registered Students: 
+Instructor: Evan Korth
+Section: 2
+Location: CIWW 102
+
+==========
+Course: Data Structures
+Course ID: CSCI-UA.0102
+Maximum # of Students: 7
+Current # of Students: 0
+Registered Students: 
+Instructor: Anasse Bari
+Section: 5
+Location: 60 Fifth Ave 110
+
+==========
+Course: Computer Systems Organization
+Course ID: CSCI-UA.0201
+Maximum # of Students: 7
+Current # of Students: 0
+Registered Students: 
+Instructor: Randy Shepherd
+Section: 1
+Location: 60 Fifth Ave 150
+
+==========
+Course: Basic Algorithms
+Course ID: CSCI-UA.0310
+Maximum # of Students: 5
+Current # of Students: 0
+Registered Students: 
+Instructor: Victor Shoup
+Section: 1
+Location: CIWW 109
+
+==========
+Course: Numerical Computing
+Course ID: CSCI-UA.0421
+Maximum # of Students: 4
+Current # of Students: 0
+Registered Students: 
+Instructor: Michael Overton
+Section: 1
+Location: 60 Fifth Ave C12
+
+==========
+Course: Theory Of Computation
+Course ID: CSCI-UA.0453
+Maximum # of Students: 5
+Current # of Students: 0
+Registered Students: 
+Instructor: Guy Kindler
+Section: 1
+Location: CIWW 201
+
+==========
+Course: Object Oriented Programming
+Course ID: CSCI-UA.0470
+Maximum # of Students: 3
+Current # of Students: 0
+Registered Students: 
+Instructor: Thomas Wies
+Section: 1
+Location: CIWW 102
+
+==========
+Course: Intro To Machine Learning
+Course ID: CSCI-UA.0473
+Maximum # of Students: 4
+Current # of Students: 0
+Registered Students: 
+Instructor: Kyunghyun Cho
+Section: 1
+Location: 60 Fifth Ave C12
+
+==========
+Course: Introduction to Robotics
+Course ID: CSCI-UA.0465
+Maximum # of Students: 2
+Current # of Students: 0
+Registered Students: 
+Instructor: Chee Yap
+Section: 1
+Location: CIWW 312

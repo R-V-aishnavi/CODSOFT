@@ -1,0 +1,25 @@
+Welcome in the Number Game!
+You have 10 chances to guess the number between 1 and 100.
+Attempt 1: Enter your guess: 2
+Too low! Try again.
+Attempt 2: Enter your guess: 1
+Too low! Try again.
+Attempt 3: Enter your guess: 1
+Too low! Try again.
+Attempt 4: Enter your guess: 1
+Too low! Try again.
+Attempt 5: Enter your guess: 1
+Too low! Try again.
+Attempt 6: Enter your guess: 1
+Too low! Try again.
+Attempt 7: Enter your guess: 1
+Too low! Try again.
+Attempt 8: Enter your guess: 1
+Too low! Try again.
+Attempt 9: Enter your guess: 1
+Too low! Try again.
+Attempt 10: Enter your guess: 1
+Too low! Try again.
+Sorry, You have used all your chances. The number was: 69
+Do you want to play again? (yes/no): no
+Game Over! Your final_score is: 0
